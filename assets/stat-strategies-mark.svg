@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Stat Strategies mark">
+  <rect width="64" height="64" rx="14" fill="#0E7C86"/>
+  <rect x="15" y="34" width="9" height="15" rx="2" fill="#FFFFFF"/>
+  <rect x="27.5" y="26" width="9" height="23" rx="2" fill="#FFFFFF"/>
+  <rect x="40" y="15" width="9" height="34" rx="2" fill="#F2A93B"/>
+</svg>
